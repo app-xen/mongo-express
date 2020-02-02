@@ -4,4 +4,4 @@ MongoDB, a powerful cross-platform document database, with mongo-express for web
 - MongoDB
 - [mongo-express](https://github.com/mongo-express/mongo-express)
 
-https://appxen.com/app/mongo-express
+Available in one-click on AWS - https://appxen.com/app/mongo-express
